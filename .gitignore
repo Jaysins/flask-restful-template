@@ -1,0 +1,27 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+**/.idea
+build
+venv
+temp
+dist
+uploads
+downloads
+target
+.idea
+.DS_Store
+.sass-cache
+.webassets-cache
+.bundle-cache
+.editorconfig
+.jshintrc
+*.pyc
+*.class
+*.pdf
+migrations
+celerybeat-schedule.db
+node_modules
+celerybeat-schedule
+dump.rdb
+**.rdb
+.vscode/settings.json
+.idea/flask-restful-template.iml
